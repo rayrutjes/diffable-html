@@ -1,5 +1,5 @@
 {
-  "name": "diffable-html",
+  "name": "@algolia/diffable-html",
   "version": "4.1.0",
   "description": "Opinionated HTML formatter focused towards making HTML diffs readable.",
   "main": "dist/diffable-html.js",
